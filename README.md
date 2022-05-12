@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a full-stack software developer and accountant.
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaeloshea04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
