@@ -19,3 +19,5 @@ I am a full-stack software developer.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaeloshea04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeloshea04&layout=compact&theme=github_dark)](https://github.com/michaeloshea04/github-readme-stats)
+
+![Image]()
