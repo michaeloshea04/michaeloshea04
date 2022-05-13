@@ -5,8 +5,7 @@
 - 🔭 Check out my portfolio [here](https://michaeloshea04.github.io/ "Link to portfolio website") 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other C# developers
-- 🥅 2022 Goals: Learn more about Javascript
-- ⚡ Fun fact: I love to play football and make beer
+- 🥅 2022 Goals: Contribute to open source projects
 
 ### Connect with me:
 
