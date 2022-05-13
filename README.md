@@ -3,10 +3,12 @@
 ## I'm a Husband, Father, Accountant, Coach and Full Stack Software Developer!!
 
 - 🔭 Check out my portfolio [here](https://michaeloshea04.github.io/ "Link to portfolio website") 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other c# developers
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other C# developers
 - 🥅 2022 Goals: Learn more about Javascript
 - ⚡ Fun fact: I love to play football and make beer
+
+### Connect with me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-o-shea-4502b8225/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CSharkMick2022)
