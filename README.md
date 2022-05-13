@@ -8,6 +8,8 @@
 - 🥅 2022 Goals: Learn more about Javascript
 - ⚡ Fun fact: I love to play football and make beer
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-o-shea-4502b8225/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaeloshea04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeloshea04&layout=compact&theme=github_dark)](https://github.com/michaeloshea04/github-readme-stats)!
 
