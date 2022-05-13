@@ -23,9 +23,3 @@
 
 
 ![gif](https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif)
-  
-![code2](https://user-images.githubusercontent.com/65997158/168202990-c5e296ce-1feb-43c6-be3d-5a7189bcf8a9.jpg)
-
-
-
-
