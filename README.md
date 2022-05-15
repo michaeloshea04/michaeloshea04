@@ -27,4 +27,4 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" style="padding-right:10px;" />               
 
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" height="70"/>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" height="200"/>
