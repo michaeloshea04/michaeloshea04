@@ -1,8 +1,8 @@
-### Hi there, I'm [Michael O'Shea](https://michaeloshea04.github.i0/ "Link to portfolio website") 👋
+### Hi there, I'm [Michael O'Shea](https://michaeloshea04.github.io/ "Link to portfolio website") 👋
 
 ## I'm a Husband, Father, Accountant, Coach and Full Stack Software Developer!!
 
-- 🔭 Check out my portfolio [here](https://michaeloshea04.github.i0/ "Link to portfolio website") 
+- 🔭 Check out my portfolio [here](https://michaeloshea04.github.io/ "Link to portfolio website") 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other C# developers
 - 🥅 2022 Goals: Contribute to open source projects
