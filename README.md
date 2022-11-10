@@ -1,6 +1,6 @@
 ### Hi there, I'm [Michael O'Shea](https://michaeloshea04.github.io/ "Link to portfolio website") 👋
 
-## I'm a Husband, Father, Accountant, Coach and Full Stack Software Developer!!
+## I'm a Full Stack Software Developer!!
 
 - 🔭 Check out my portfolio [here](https://michaeloshea04.github.io/ "Link to portfolio website") 
 - 🌱 I’m currently learning everything
